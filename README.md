@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello!
-I'm WordlessSafe1, a Computer Science and Computer Networking Security student, filling in my free time.
+I'm **WordlessSafe1**, a Computer Science and Computer Networking Security student, filling in my free time.
 <br/><!-- Contact Badges -->
 [![Discord](https://img.shields.io/badge/Discord-5662F6?&logo=discord&logoColor=white&style=plastic)](https://discordapp.com/users/268500585857155084)
 ![Twitch Status](https://img.shields.io/twitch/status/WordlessSafe1?color=6441a5&label=Twitch&logo=twitch&logoColor=white&style=plastic)
