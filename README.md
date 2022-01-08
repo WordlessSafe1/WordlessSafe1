@@ -38,6 +38,7 @@ I'm **WordlessSafe1**, a Computer Science and Computer Networking Security stude
 - 📫 You can contact me on Discord: [WordlessSafe1#0001](https://discordapp.com/users/268500585857155084), or by email: [WordlessSafe1@KillOnSight.Pro](mailto:WordlessSafe1@KillOnSight.Pro)
 ---
 ##### Active Side Projects:
+- [X] Terrible Advice Discord Bot | C#
 - [ ] [KOS Website](https://KillOnSight.Pro) | CSS, JavaScript
 - [X] [PasswordManager](../../../PasswordManager) | C#
 - [ ] Conquest Website | CSS, JavaScript
