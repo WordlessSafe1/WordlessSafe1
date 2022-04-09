@@ -38,9 +38,10 @@ I'm **WordlessSafe1**, a Computer Science and Computer Networking Security stude
 - 📫 You can contact me on Discord: [WordlessSafe1#0001](https://discordapp.com/users/268500585857155084), or by email: [WordlessSafe1@KillOnSight.Pro](mailto:WordlessSafe1@KillOnSight.Pro)
 ---
 ##### Active Side Projects:
-- [X] [Terrible Advice Discord Bot](../../../TerribleLifeAdviceBot) | C#
-- [ ] [KOS Website](https://KillOnSight.Pro) | CSS, JavaScript
-- [X] [PasswordManager](../../../PasswordManager) | C#
+- [X] [BountyBot](../../../BountyBot) | C#
+- [ ] [Terrible Advice Discord Bot](../../../TerribleLifeAdviceBot) | C#
+- [X] [KOS Website](https://KillOnSight.Pro) | CSS, JavaScript
+- [ ] [PasswordManager](../../../PasswordManager) | C#
 - [ ] Conquest Website | CSS, JavaScript
 ***
 [![KOS Discord](https://img.shields.io/discord/819780873724887040?label=Kill%20On%20Sight%20Community&style=plastic&color=5662F6&logo=discord&logoColor=white)](https://bit.ly/KoSDiscord)
