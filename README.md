@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello!
-I'm **WordlessSafe1**, a Computer Science and Computer Networking Security student, filling in my free time.
+I'm **WordlessSafe1**, an IT Coordinator, filling in my free time.
 <br/><!-- Contact Badges -->
 [![Discord](https://img.shields.io/badge/Discord-5662F6?&logo=discord&logoColor=white&style=plastic)](https://discordapp.com/users/268500585857155084)
 [![Twitch Status](https://img.shields.io/twitch/status/WordlessSafe1?color=6441a5&label=Twitch&logo=twitch&logoColor=white&style=plastic)](http://WordlessSafe1.live)
@@ -32,17 +32,15 @@ I'm **WordlessSafe1**, a Computer Science and Computer Networking Security stude
 [![Google Cloud Suite](https://img.shields.io/badge/Google_Suite-4285F4?style=plastic&logo=google-cloud&logoColor=white)](#)
 [![Microsoft Office Suite](https://img.shields.io/badge/Office_Suite-D83B01?style=plastic&logo=microsoft-office&logoColor=white)](#)
 ***
-- 🎮 I co-own a VR Esports team, [Kill On Sight](https://KillOnSight.Pro), where I'm in charge of technical development.
-- 💻 I work primarily with C#, but have some knowledge with C++, C, Javascript, HTML, and CSS.
+- 🎮 I co-own a VR Esports team, [KOS](https://KillOnSight.Pro), where I'm in charge of technical development.
+- 💻 I work primarily with C# and PHP, but have some knowledge with C++, C, Javascript, HTML, and CSS.
 - 🤝🏽 I'm open to collaborate on projects, just reach out!
-- 📫 You can contact me on Discord: [WordlessSafe1#0001](https://discordapp.com/users/268500585857155084), or by email: [WordlessSafe1@KillOnSight.Pro](mailto:WordlessSafe1@KillOnSight.Pro)
+- 📫 You can contact me on Discord: [WordlessSafe1#0001](https://discordapp.com/users/268500585857155084)<!-- , or by email: [WordlessSafe1@KillOnSight.Pro](mailto:WordlessSafe1@KillOnSight.Pro) -->
 ---
-##### Active Side Projects:
-- [X] [BountyBot](../../../BountyBot) | C#
-- [ ] [Terrible Advice Discord Bot](../../../TerribleLifeAdviceBot) | C#
-- [X] [KOS Website](https://KillOnSight.Pro) | CSS, JavaScript
+<!-- ##### Active Side Projects:
+- [ ] [BountyBot](../../../BountyBot) | C#
+- [ ] [KOS Website](https://KillOnSight.Pro) | CSS, JavaScript
 - [ ] [PasswordManager](../../../PasswordManager) | C#
-- [ ] Conquest Website | CSS, JavaScript
-***
-[![KOS Discord](https://img.shields.io/discord/819780873724887040?label=Kill%20On%20Sight%20Community&style=plastic&color=5662F6&logo=discord&logoColor=white)](https://bit.ly/KoSDiscord)
+*** -->
+[![KOS Discord](https://img.shields.io/discord/819780873724887040?label=KOS%20Community&style=plastic&color=5662F6&logo=discord&logoColor=white)](https://bit.ly/KoSDiscord)
 [![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=WordlessSafe1.WordlessSafe1&style=plastic&color=brightgreen)](#)
