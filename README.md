@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello!
-I'm **WordlessSafe1**, an IT Coordinator, filling in my free time.
+I'm **WordlessSafe1**, an IT Technician, filling in my free time.
 <br/><!-- Contact Badges -->
 [![Discord](https://img.shields.io/badge/Discord-5662F6?&logo=discord&logoColor=white&style=plastic)](https://discordapp.com/users/268500585857155084)
 [![Twitch Status](https://img.shields.io/twitch/status/WordlessSafe1?color=6441a5&label=Twitch&logo=twitch&logoColor=white&style=plastic)](http://WordlessSafe1.live)
@@ -33,7 +33,7 @@ I'm **WordlessSafe1**, an IT Coordinator, filling in my free time.
 [![Microsoft Office Suite](https://img.shields.io/badge/Office_Suite-D83B01?style=plastic&logo=microsoft-office&logoColor=white)](#)
 ***
 <!-- - 🎮 I co-own a VR Esports team, [KOS](https://KillOnSight.Pro), where I'm in charge of technical development. -->
-- 💻 I work primarily with C# and PHP, but have some knowledge with C++, C, Javascript, HTML, and CSS.
+- 💻 I work primarily with C, C# and PHP, but have some knowledge with C++, JavaScript, TypeScript, Python, HTML, and CSS.
 - 🤝🏽 I'm open to collaborate on projects, just reach out!
 - 📫 You can contact me on Discord: [WordlessSafe1#0001](https://discordapp.com/users/268500585857155084)<!-- , or by email: [WordlessSafe1@KillOnSight.Pro](mailto:WordlessSafe1@KillOnSight.Pro) -->
 ---
